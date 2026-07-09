@@ -18,7 +18,7 @@ Este repositorio contiene ejemplos relacionados con la automatización de config
 
 🔗 **Repositorio:**
 
-> **https://github.com/USUARIO/REPOSITORIO-JINJA2**
+> **https://github.com/edinaranjo/jinja2_python**
 
 ---
 
@@ -28,7 +28,7 @@ Incluye los laboratorios utilizados para la creación de imágenes Docker, publi
 
 🔗 **Repositorio:**
 
-> **https://github.com/USUARIO/REPOSITORIO-DOCKER**
+> **https://github.com/edinaranjo/gha_docker**
 
 ---
 
@@ -38,7 +38,7 @@ Presenta ejemplos de despliegue automatizado utilizando **Ansible**, **GitHub Ac
 
 🔗 **Repositorio:**
 
-> **https://github.com/USUARIO/REPOSITORIO-ANSIBLE**
+> **https://github.com/edinaranjo/ansible-gha**
 
 ---
 
